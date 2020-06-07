@@ -4,9 +4,19 @@ h1 {
 }
 div {
    font-size: 50px;
-   color: yellow;
+   color: green;
 }
 
 p {
    font-weight: 700;
+}
+
+.text {
+   background-color: pink;
+   padding: 10px;
+   color: black;
+}
+.text2 {
+   font-style: 40px;
+   color: brown;
 }
